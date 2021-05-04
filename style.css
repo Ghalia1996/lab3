@@ -1,0 +1,15 @@
+h1{color:aqua;}
+img{
+  width:70% ;
+  display: black;
+  margin-left:auto;
+  margin-right: auto;
+}
+p{ font: 1em sans-serif;
+color:brown;
+}
+nav ul li {
+  display: inline;
+}
+h3{ color: aqua;}
+}
