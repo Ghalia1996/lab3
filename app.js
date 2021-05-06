@@ -29,5 +29,5 @@ if(userColor ==='red')
 else if ( userColor ==='green') {
 image = image + '<img src="https://www.dictionary.com/e/wp-content/uploads/2020/02/20200727_emoji_greenHeart_1000x700.png">' }
 }
-
+document.write(image)
 
