@@ -31,5 +31,3 @@ image = image + '<img src="https://www.dictionary.com/e/wp-content/uploads/2020/
 }
 
 
-document.write(image)
-
