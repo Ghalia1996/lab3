@@ -13,6 +13,7 @@
 }
 
 */
+/*
 alert ('what is your favourite color')
 
 var userColor = prompt('what is your favourite color?')
@@ -29,5 +30,35 @@ if(userColor ==='red')
 else if ( userColor ==='green') {
 image = image + '<img src="https://www.dictionary.com/e/wp-content/uploads/2020/02/20200727_emoji_greenHeart_1000x700.png">' }
 }
+document.write(image)
+*/
 
+
+function choosing(){
+  var userColor = promot('choose your favourite color pleas')
+  while(userColor !== 'red' && userColor !== 'green')
+  {var userColor = prompt (choose again pleas)}
+}
+if (userColor === 'red')
+{
+  document.write("<h1> 'its red one'<h1>")
+
+}
+else if (userColor === 'green')
+{
+  document.write("<h1> 'its green one'<h1>")
+
+}
+else { alert (thank you ) }
+
+choosing ()
+printImage()
+{
+  
+function printImg(){
+var userGhalia = prompt ("which your favourit mix color")
+console.log
+for (var i = 0 ; i < userGhalia; i++){
+document.write('<img src="https://www.sciencenewsforstudents.org/wp-content/uploads/2020/04/1030_fogbow_explainer-1028x579.png"  >')
+}
 
